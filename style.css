@@ -1,0 +1,36 @@
+body{
+	background-color: white;
+	color: white;
+}
+header{
+	background-color:#46b989;
+	color: black;
+}
+section{
+	color: black;
+	background-color:;
+}
+.grid-items{
+	box-lines: 20px;
+	padding: 5px;
+	margin: 20px;
+	text-align: center;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(2, 1fr);
+}
+html {
+    display: block;
+}
+footer{
+	color: black;
+	background-color: yellowgreen;
+}
+.boxed{
+	border: 1px solid black;
+	padding: 65px;
+	margin-bottom: 20px;
+	background-color: black;
+}
+.ul{
+	color: black;
+}
